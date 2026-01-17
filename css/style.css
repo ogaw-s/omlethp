@@ -1,0 +1,28 @@
+body {
+    font-family:"ＭＳ ゴシック", "Osaka－等幅";
+    font-size:16px;
+    margin:0;
+    text-align:left;
+}
+
+main {
+    width:60%;
+    max-width:800px;
+    margin:0 auto;
+}
+
+header {
+    background-color: #c9ffa9;
+    height: 80px;
+    width: 70%;
+    margin:0 auto;
+    border-radius: 10px;
+}
+
+footer {
+    background-color: #c9ffa9;
+    height: 60px;
+    width: 70%;
+    margin:0 auto;
+    border-radius: 10px;
+}
