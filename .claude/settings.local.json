@@ -1,7 +1,8 @@
 {
   "permissions": {
     "allow": [
-      "Bash(dir /b \"C:\\\\Users\\\\d257b\\\\Desktop\\\\omlethp\")"
+      "Bash(dir /b \"C:\\\\Users\\\\d257b\\\\Desktop\\\\omlethp\")",
+      "Bash(git checkout:*)"
     ]
   }
 }
